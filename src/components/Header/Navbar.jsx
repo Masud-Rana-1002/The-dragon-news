@@ -1,7 +1,10 @@
-import React from 'react';
+
 import logo from '../../assets/logo.png'
 import moment from 'moment';
+
+
 const Navbar = () => {
+
   return (
     <div>
       <div className='flex items-center justify-center py-10 flex-col space-y-3'>
